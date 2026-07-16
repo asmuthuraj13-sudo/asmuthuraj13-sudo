@@ -247,7 +247,9 @@ Patent Filed Innovation Project.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%AD%90+Thanks+for+visiting+my+profile+%E2%AD%90;If+you+like+my+work%2C+don't+forget+to+%E2%AD%90+my+repositories!" alt="Typing Animation" />
+  <a href="https://github.com/asmuthuraj13-sudo?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&background=1E1E1E&center=true&vCenter=true&width=700&height=80&lines=⭐+Thanks+for+visiting+my+profile!+⭐;💻+If+you+like+my+work...;🚀+Don't+forget+to+STAR+my+repositories!+🚀" alt="Typing Animation" style="border-radius: 10px;" />
+  </a>
 </div>
 
 <div align="center">
