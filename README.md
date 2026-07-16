@@ -261,3 +261,8 @@ Patent Filed Innovation Project.
     <img src="https://img.shields.io/badge/Follow_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/asmuthuraj13-sudo?tab=repositories">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&text=⭐%20If%20you%20like%20my%20work,%20don't%20forget%20to%20star%20my%20repositories!%20⭐&fontSize=22&fontAlignY=75" alt="Animated Wave Footer" />
+  </a>
+</div>
