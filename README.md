@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:06B6D4,100:0EA5E9&text=Muthu%20Raj%20A%20S&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cloud%20Engineer%20|%20Azure%20Certified&descAlignY=58"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Microsoft+Azure+AZ-900+Certified;Cloud+Computing+Enthusiast;Generative+AI+Explorer;Java+Developer;Always+Learning+New+Technologies"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muthu Raj A S</h1>
 
 <h3 align="center">
@@ -72,15 +80,19 @@ Become a Cloud Engineer & Full Stack Developer.
 
 ### Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/><br><br>
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes"/><br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 </p>
 
@@ -168,9 +180,9 @@ Patent Filed Innovation Project.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asmuthuraj13-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asmuthuraj13-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=asmuthuraj13-sudo&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=asmuthuraj13-sudo&theme=tokyonight&hide_border=true"/>
 
 </p>
 
