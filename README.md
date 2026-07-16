@@ -9,7 +9,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Microsoft+Azure+AZ-900+Certified;Generative+AI+Explorer;Always+Learning+Something+New" />
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asmuthuraj13-sudo/asmuthuraj13-sudo/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 ---
 
 <img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
