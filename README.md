@@ -246,8 +246,6 @@ Patent Filed Innovation Project.
 
 ---
 
-<p align="center">
-  <marquee direction="left" behavior="scroll" scrollamount="7" width="75%">
-    <b>⭐ Thanks for visiting my profile ⭐ &nbsp;&nbsp;&nbsp;&nbsp; If you like my work, don't forget to ⭐ my repositories!</b>
-  </marquee>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%AD%90+Thanks+for+visiting+my+profile+%E2%AD%90;If+you+like+my+work%2C+don't+forget+to+%E2%AD%90+my+repositories!" alt="Typing Animation" />
+</div>
