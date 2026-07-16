@@ -146,9 +146,9 @@ Hands-on Azure Cloud projects.
 
 ---
 
-### 🛒 Smart Grocery Shopping
+### College helpdesk chat-bot
 
-Responsive shopping application with modern UI.
+Responsive chat-bot application with modern UI.
 
 ---
 
