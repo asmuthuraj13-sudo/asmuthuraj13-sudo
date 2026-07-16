@@ -6,12 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Microsoft+Azure+AZ-900+Certified;Cloud+Computing+Enthusiast;Generative+AI+Explorer;Java+Developer;Always+Learning+New+Technologies"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Muthu Raj A S</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer • ☁️ Cloud Enthusiast • 🤖 GenAI Explorer • 💻 Java Developer
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Microsoft+Azure+AZ-900+Certified;Generative+AI+Explorer;Always+Learning+Something+New" />
 </p>
