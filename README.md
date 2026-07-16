@@ -249,3 +249,13 @@ Patent Filed Innovation Project.
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%AD%90+Thanks+for+visiting+my+profile+%E2%AD%90;If+you+like+my+work%2C+don't+forget+to+%E2%AD%90+my+repositories!" alt="Typing Animation" />
 </div>
+
+<div align="center">
+  <h3>Show some ❤️ by starring some of the repositories!</h3>
+  <a href="https://github.com/asmuthuraj13-sudo?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-282c34?style=for-the-badge&logo=github&logoColor=white" alt="Star Repositories" />
+  </a>
+  <a href="https://github.com/asmuthuraj13-sudo">
+    <img src="https://img.shields.io/badge/Follow_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
+  </a>
+</div>
