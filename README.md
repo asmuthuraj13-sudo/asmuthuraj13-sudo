@@ -246,10 +246,8 @@ Patent Filed Innovation Project.
 
 ---
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-If you like my work, don't forget to ⭐ my repositories!
-
-</h3>
+<p align="center">
+  <marquee direction="left" behavior="scroll" scrollamount="7" width="75%">
+    <b>⭐ Thanks for visiting my profile ⭐ &nbsp;&nbsp;&nbsp;&nbsp; If you like my work, don't forget to ⭐ my repositories!</b>
+  </marquee>
+</p>
