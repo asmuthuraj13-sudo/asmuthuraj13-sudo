@@ -146,12 +146,6 @@ Hands-on Azure Cloud projects.
 
 ---
 
-### College helpdesk chat-bot
-
-Responsive chat-bot application with modern UI.
-
----
-
 ### 🦻 Bluetooth Hearing Aid
 
 Patent Filed Innovation Project.
