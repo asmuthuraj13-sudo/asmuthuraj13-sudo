@@ -1,86 +1,127 @@
-```md
 <h1 align="center">Hi 👋, I'm Muthu Raj A S</h1>
-<h3 align="center">B.Tech Information Technology Student | Full Stack Developer | Cloud Enthusiast | GenAI Explorer</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer • ☁️ Cloud Enthusiast • 🤖 GenAI Explorer • 💻 Java Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Cloud+Computing+Enthusiast;Java+%7C+Python+Developer;Azure+AZ-900+Certified;Building+AI+Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Microsoft+Azure+AZ-900+Certified;Generative+AI+Explorer;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💻 Passionate Information Technology student with a strong interest in building modern web applications, cloud-based solutions, and AI-powered systems.
+## 💫 About Me
 
-🌟 I enjoy transforming ideas into practical digital solutions with clean UI, scalable backend architectures, and user-friendly experiences.
+🎓 B.Tech Information Technology Student
 
-- 🔭 Currently working on **College Helpdesk Knowledge Base (GenAI + RAG)**
-- 🌱 Learning **Cloud Computing, Azure, AWS, Docker, Kubernetes & DevOps**
-- 🤖 Exploring **Generative AI, LangChain, FastAPI & Vector Databases**
-- 💡 Interested in **Frontend Development, Cloud Engineering & Software Development**
-- 🎯 Goal: Become a Cloud & Full Stack Engineer
-- ⚡ Fun Fact: I love solving coding challenges and continuously improving my development skills.
+💻 Passionate about building scalable web applications and cloud-based solutions.
+
+☁️ Azure AZ-900 Certified
+
+🤖 Currently building AI-powered applications using LangChain & FastAPI.
+
+🌱 Learning
+
+- Cloud Computing
+- DevOps
+- Docker
+- Kubernetes
+- AWS
+- Azure
+- Generative AI
+
+🎯 Career Goal
+
+Become a Cloud Engineer & Full Stack Developer.
+
+⚡ Fun Fact
+
+> "I enjoy solving coding challenges and building practical software."
+
+<br>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/asmuthuraj13-sudo" target="_blank">
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/asmuthuraj13-sudo">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
+<a href="https://YOUR-PORTFOLIO.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
 </p>
 
 ### Frontend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+
 </p>
 
 ### Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+
 </p>
 
 ### Database
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+
 </p>
 
-### Cloud
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,aws,docker"/>
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes"/>
+
 </p>
 
 ### Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+
 </p>
 
 ---
@@ -88,38 +129,42 @@
 # 🚀 Featured Projects
 
 ### 🎓 College Helpdesk Knowledge Base
-AI-powered college assistant built using **FastAPI, LangChain, FAISS, Streamlit, HuggingFace Embeddings**, enabling intelligent document search and question answering.
+
+> AI-powered college chatbot using FastAPI, LangChain, FAISS, Streamlit and HuggingFace Embeddings.
 
 ---
 
-### ☁️ Cloud Learning Journey
-Hands-on learning with **Microsoft Azure**, cloud services, virtualization, networking, storage, identity, and security.
+### ☁️ Cloud Learning
+
+Hands-on Azure Cloud projects.
 
 ---
 
-### 🛒 Smart Grocery Shopping App
-A modern shopping application focused on improving the user experience with intuitive UI and practical features.
+### 🛒 Smart Grocery Shopping
+
+Responsive shopping application with modern UI.
 
 ---
 
-### 🦻 Bluetooth Hearing Aid (Patent Filed)
-Designed an innovative Bluetooth-enabled hearing assistance solution to enhance accessibility through smart technology.
+### 🦻 Bluetooth Hearing Aid
+
+Patent Filed Innovation Project.
 
 ---
 
-## 📜 Certifications
+# 🏆 Certifications
 
-🏆 Microsoft Certified: Azure Fundamentals (AZ-900)
+🏅 Microsoft Azure Fundamentals (AZ-900)
 
-🏆 Internship Completion Certificate
+🏅 Hadoop Workshop
 
-🏆 AR/VR Workshop
+🏅 AR/VR Workshop
 
-🏆 Hadoop & Big Data Workshop
+🏅 Internship Completion
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -137,49 +182,70 @@ Designed an innovative Bluetooth-enabled hearing assistance solution to enhance 
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmuthuraj13-sudo&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmuthuraj13-sudo&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏅 Achievements
-
-🏆 Microsoft Azure AZ-900 Certified
-
-💡 Patent Filed – Bluetooth Hearing Aid
-
-👨‍💼 Head - Finance Department, Tinkerers Lab
-
-🎯 Passionate about Cloud Computing, Full Stack Development & Generative AI
-
----
-
-## 📊 Profile Views
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=asmuthuraj13-sudo&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=asmuthuraj13-sudo&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-## 💬 Quote
-
-> *"Code. Learn. Build. Innovate. Repeat."* 🚀
-
----
+# 👀 Visitors
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
+<img src="https://komarev.com/ghpvc/?username=asmuthuraj13-sudo&style=for-the-badge&color=blue"/>
 
 </p>
-```
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+If you like my work, don't forget to ⭐ my repositories!
+
+</h3>
