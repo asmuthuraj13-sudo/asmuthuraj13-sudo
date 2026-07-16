@@ -248,10 +248,9 @@ Patent Filed Innovation Project.
 
 <div align="center">
   <a href="https://github.com/asmuthuraj13-sudo?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&background=1E1E1E&center=true&vCenter=true&width=700&height=80&lines=⭐+Thanks+for+visiting+my+profile!+⭐;💻+If+you+like+my+work...;🚀+Don't+forget+to+STAR+my+repositories!+🚀" alt="Typing Animation" style="border-radius: 10px;" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&background=1E1E1E&center=true&vCenter=true&width=700&height=80&lines=%E2%AD%90%20Thanks%20for%20visiting%20my%20profile!%20%E2%AD%90;%F0%9F%92%BB%20If%20you%20like%20my%20work...;%F0%9F%9A%80%20Don't%20forget%20to%20STAR%20my%20repositories!%20%F0%9F%9A%80" alt="Typing Animation" style="border-radius: 10px;" />
   </a>
 </div>
-
 <div align="center">
   <h3>Show some ❤️ by starring some of the repositories!</h3>
   <a href="https://github.com/asmuthuraj13-sudo?tab=repositories">
